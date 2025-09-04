@@ -1,6 +1,6 @@
-package thomas;
+    package thomas;
 
-public enum AttendanceStatus {
-    Present,
-    Absent
-}
+    public enum AttendanceStatus {
+        Present,
+        Absent
+    }
